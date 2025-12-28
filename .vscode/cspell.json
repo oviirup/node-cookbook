@@ -1,0 +1,9 @@
+{
+  "language": "en",
+  "version": "0.2",
+  "useGitignore": true,
+  // biome-ignore format: ignore
+  "words": [
+    "envalid","inter","oviirup","tailwindcss","zod","shiki"
+  ]
+}
