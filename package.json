@@ -1,5 +1,5 @@
 {
-  "name": "learning",
+  "name": "node-cookbook",
   "version": "0.0.1",
   "description": "A curated collection of Node.js projects",
   "workspaces": [
